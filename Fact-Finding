@@ -1,0 +1,60 @@
+# <p style="text-align: center;"><span style="font-family: Times New Roman; font-size: 3em;">Python</span>
+###### Python fact finding exercise
+
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="drawing" width="700" height="500"/> </p>
+
+## 1. List and Tuple
+
+#### A list is a data structure in Python that is a mutable, or changeable, ordered sequence of elements. examples of List: It is mutable. The implication of iterations is time-consuming in the list. Operations like insertion and deletion are better performed.Consumes more memory.
+
+![alt text](https://miro.medium.com/v2/resize:fit:720/format:webp/1*WMiNIQ9THariDSJw47uU1w.png)
+
+#### Python tuples are a type of data structure that is very similar to lists. The main difference between the two is that tuples are immutable, meaning they cannot be changed once they are created. This makes them ideal for storing data that should not be modified, such as database records.
+
+
+## 2. namespace in Python
+
+#### a collection of currently defined symbolic names along with information about the object that each name references. 
+
+
+#### A namespace is a system that has a unique name for each and every object in Python. An object might be a variable or a method.
+
+## 3. Difference between Local and Global variables
+
+#### A global variable is one that is “declared” outside of the functions in a program and can, therefore, be accessed by any of the functions. 
+
+#### A local variable is declared inside a specific function and can only be accessed by the function in which it is declared.
+
+## 4. *Integrated development environment (IDE)*
+#### An integrated development environment (IDE) is a program dedicated to software development.  
+ 
+#### It has tools that usually include: An editor designed to handle code (with, for example, syntax highlighting and auto-completion) 
+
+#### Build, execution, and debugging tools.
+
+#### Some form of source PyCharm, Spyder, and Thonny are examples of popular Python IDEs
+
+## 5. Modules
+ 
+#### Modules are files that contain Python code. They serve as a way to organize and reuse code. Modules can include functions, variables, and classes that you can use in other Python scripts or programs. For example:
+- Math module
+- DateTime module
+- Custom module
+ 
+ 
+## 6. Difference between an array and a list
+ 
+#### In Python, a "list" is a dynamic, ordered collection of elements that can be of different data types and can change in size. 
+
+#### An "array" is a more general data structure found in various languages, often containing elements of the same data type and with a fixed size. 
+
+#### In Python, what's commonly called a "list" is flexible, while an "array" in other languages might have stricter rules.
+ 
+## 7. Operators
+ 
+#### Operators in programming are symbols or keywords used for various tasks, such as;
+- Mathematical operations (+, -, *, /)
+- Comparisons (==, !=, >, <),
+- Logical operations (and, or, not)
+- Assignments (=)
+#### For instance, you can utilize "+" to perform addition, "==" for equality comparisons, and "and" to combine conditions.
